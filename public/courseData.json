@@ -1,0 +1,21 @@
+[
+    {
+      "CourseName": "Introduction to Data Science",
+      "Date": "February 20, 2024, 09:45am",
+      "Author": "John Smith",
+      "Status": "Publish"
+    },
+    {
+      "CourseName": "Web Development Fundamentals",
+      "Date": "February 18, 2024, 02:30pm",
+      "Author": "admin",
+      "Status": "Draft"
+    },
+    {
+      "CourseName": "Machine Learning Basics",
+      "Date": "February 15, 2024, 11:10am",
+      "Author": "Jane Doe",
+      "Status": "Publish"
+    }
+  ]
+  
